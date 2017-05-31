@@ -3,3 +3,4 @@ Dalej dalej
 all is ok
 asd
 nowa galaz
+dalej ta sama galaz
