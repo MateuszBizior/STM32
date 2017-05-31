@@ -4,4 +4,4 @@ all is ok
 asd
 nowa galaz
 dalej ta sama galaz
-dalej master
+nowy rozdzia³
